@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_81c7640a14e3ffeee8f060e2539ec0bd2cbb07d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_f2dbb5c78690d666d537767190b795d1b73b6db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_dd213394282caf281d70343c0f135b6f091c6e25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_48a903bd4f899c782f803b241f0cf708af3b0364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/libs/CircleImageView-master/gradle/wrapper/gradle-wrapper.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d229475a85469cc6aab6348e8714bd1c1f833fb4">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/gradle-wrapper_e9c8af7f89c57a492e5b3bc0d65dafa324af7957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_4439d5d2f3bfe1d7191f269312bc9f4ca41952e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="078cad8ebaa25b1eb1790bd622b3a8ae27c9cc7a">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.getbase-floatingactionbutton-1.10.0_7afe4db43731c50379f52ba1e794277d189ebf1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c3ef5bafc152e09143b9f83f356eaf306eef86f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ff55194b8059392447ee87134616aa9c40d1d09">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_58701f92c4018904f3a5464c02a7840b38ef6016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_76b10244082de7794ebe0d1043f3ecb7279d5325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_a8d8ebe4839305b88a426340865e1420226c28db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_fbfe220fdc471b0d560fae129ac9dc258e20a4c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_f601a1950d0e7b1ec17c08ac6d2b6205e985c0c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_3cdf9e0c9aa220a32bfa14215f5fd45a549a38ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26fb5f15732bfb5a91c22de83a8de2ee0659ac5d">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/instant-run_683bf490db3b24a9f9778d25d26dcb79d142eb36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_7177cbfe9b7fc8138f88826a7b7158d92b65c11b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_1fe147da8edd0f85e4f5a840f81edb54bd1400a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_91e17b1861e0ab03d51e66c64e6d7a592f681960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e20175e434726b171fdf165ce4c4d2599bfde195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_40e1fd28d0fb048d04f1b63648673073d86eaa4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4ff2ed51e8c684687c2cf9f011996f7d224df0a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_f15261922a2ddec3fbfb2694318c301f11951a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_e7182a004b15b086f88203d2629d96de9d31f0ef.jar" />
+    </item>
+
+</items>
