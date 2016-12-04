@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_76b10244082de7794ebe0d1043f3ecb7279d5325.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -39,66 +48,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/dtaq/MyRmme/app/libs/CircleImageView-master/gradle/wrapper/gradle-wrapper.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d229475a85469cc6aab6348e8714bd1c1f833fb4">
-        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/gradle-wrapper_e9c8af7f89c57a492e5b3bc0d65dafa324af7957.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_4439d5d2f3bfe1d7191f269312bc9f4ca41952e6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="078cad8ebaa25b1eb1790bd622b3a8ae27c9cc7a">
-        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.getbase-floatingactionbutton-1.10.0_7afe4db43731c50379f52ba1e794277d189ebf1b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c3ef5bafc152e09143b9f83f356eaf306eef86f1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/dtaq/MyRmme/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2ff55194b8059392447ee87134616aa9c40d1d09">
-        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_58701f92c4018904f3a5464c02a7840b38ef6016.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_76b10244082de7794ebe0d1043f3ecb7279d5325.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
         <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_a8d8ebe4839305b88a426340865e1420226c28db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/libs/CircleImageView-master/gradle/wrapper/gradle-wrapper.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d229475a85469cc6aab6348e8714bd1c1f833fb4">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/gradle-wrapper_e9c8af7f89c57a492e5b3bc0d65dafa324af7957.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,12 +75,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_4439d5d2f3bfe1d7191f269312bc9f4ca41952e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_f601a1950d0e7b1ec17c08ac6d2b6205e985c0c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="078cad8ebaa25b1eb1790bd622b3a8ae27c9cc7a">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.getbase-floatingactionbutton-1.10.0_7afe4db43731c50379f52ba1e794277d189ebf1b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -133,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="26fb5f15732bfb5a91c22de83a8de2ee0659ac5d">
+        sha1="707dd2f7e2017a8c11b2dd537706b023f7362b71">
         <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/instant-run_683bf490db3b24a9f9778d25d26dcb79d142eb36.jar" />
     </item>
     <item
@@ -162,6 +144,15 @@
         revision="25.0.0"
         sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
         <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_91e17b1861e0ab03d51e66c64e6d7a592f681960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c3ef5bafc152e09143b9f83f356eaf306eef86f1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -198,6 +189,24 @@
         revision="25.0.0"
         sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
         <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_f15261922a2ddec3fbfb2694318c301f11951a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/exploded-aar/com.andkulikov/transitionseverywhere/1.7.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24a746ed49aea913f5f009715c49e01a8d758e3f">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/com.andkulikov-transitionseverywhere-1.7.0_bb30dc086c0f2fe22509704bd9e9047aa6eeeeee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtaq/MyRmme/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36bc322c090e72abbef53428c512289b2c1bf96d">
+        <dex dex="/home/dtaq/MyRmme/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_58701f92c4018904f3a5464c02a7840b38ef6016.jar" />
     </item>
     <item
         is-multidex="false"

@@ -13,9 +13,15 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.FrameLayout;
+import android.widget.RelativeLayout;
 
 import com.getbase.floatingactionbutton.FloatingActionsMenu;
+import com.transitionseverywhere.TransitionManager;
+
+import de.hdodenhof.circleimageview.CircleImageView;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -69,6 +75,35 @@ public class MainActivity extends AppCompatActivity
                 frameLayout.setOnTouchListener(null);
             }
         });
+
+
+        // Transition Button
+        final CircleImageView button = (CircleImageView) findViewById(R.id.avatar1);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                move();
+            }
+        });
+
+
+    }
+
+    private void move() {
+        CircleImageView button = (CircleImageView) findViewById(R.id.avatar1);
+        ViewGroup mylayout = (ViewGroup) findViewById(R.id.drawer_layout);
+        TransitionManager.beginDelayedTransition(mylayout);
+        RelativeLayout.LayoutParams position = new RelativeLayout.LayoutParams(
+                RelativeLayout.LayoutParams.MATCH_PARENT, RelativeLayout.LayoutParams.MATCH_PARENT
+        );
+        position.addRule(RelativeLayout.CENTER_HORIZONTAL, RelativeLayout.TRUE);
+        position.addRule(RelativeLayout.ALIGN_PARENT_BOTTOM, RelativeLayout.TRUE);
+        button.setLayoutParams(position);
+
+        ViewGroup.LayoutParams size = button.getLayoutParams();
+        size.width = 100;
+        size.height = 100;
+        button.setLayoutParams(size);
     }
 
 
