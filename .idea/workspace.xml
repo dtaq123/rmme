@@ -17,68 +17,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/drawable-nodpi/hugh.png" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/drawable-nodpi/hugh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/screenshot.png" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/screenshot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_action_name.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_action_name.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_name.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_name.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_action_name.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_action_name.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_action_name.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_action_name.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/main.jpg" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/main.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo" afterPath="$PROJECT_DIR$/demo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_0_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_0_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/circleimageview_2_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/circleimageview_2_1_0.xml" />
@@ -109,69 +53,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_0_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/transition_25_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/transition_25_0_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyRmme.iml" afterPath="$PROJECT_DIR$/MyRmme.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.gitignore" afterPath="$PROJECT_DIR$/app/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/.gitignore" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/LICENSE.txt" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/LICENSE.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/README.md" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/build.gradle" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/circleimageview/build.gradle" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/circleimageview/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/circleimageview/gradle.properties" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/circleimageview/gradle.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/circleimageview/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/circleimageview/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/circleimageview/src/main/java/de/hdodenhof/circleimageview/CircleImageView.java" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/circleimageview/src/main/java/de/hdodenhof/circleimageview/CircleImageView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/circleimageview/src/main/res/values/attrs.xml" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/circleimageview/src/main/res/values/attrs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/gradle.properties" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/gradle.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/gradlew.bat" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/gradlew.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/build.gradle" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/proguard-rules.txt" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/proguard-rules.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/java/de/hdodenhof/circleimageview/sample/MainActivity.java" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/java/de/hdodenhof/circleimageview/sample/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/CircleImageView-master/settings.gradle" afterPath="$PROJECT_DIR$/app/libs/CircleImageView-master/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/dtaq/myrmme/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/dtaq/myrmme/ExampleInstrumentedTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/dtaq/myrmme/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/dtaq/myrmme/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_about.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_about.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/fab_label_background.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fab_label_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_about.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_about.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_contact.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_contact.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_history.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_history.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_home.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_setting.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_setting.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_share.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_share.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/side_nav_bar.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/side_nav_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/test/java/com/dtaq/myrmme/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/app/src/test/java/com/dtaq/myrmme/ExampleUnitTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle.properties" afterPath="$PROJECT_DIR$/gradle.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <ignored path="MyRmme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -203,108 +88,14 @@
     <favorites_list name="MyRmme" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtaq/myrmme/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="92" column="73" selection-start-line="92" selection-start-column="73" selection-end-line="92" selection-end-column="73" />
-              <folding>
-                <element signature="e#1387#1643#0" expanded="true" />
-                <element signature="e#1642#1643#0" expanded="true" />
-                <element signature="e#1831#1862#0" expanded="true" />
-                <element signature="e#1864#1896#0" expanded="true" />
-                <element signature="e#2672#2923#0" expanded="true" />
-                <element signature="e#2922#2923#0" expanded="true" />
-                <element signature="e#3294#3437#0" expanded="true" />
-                <element signature="e#3436#3437#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gradle.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/libs/CircleImageView-master/circleimageview/gradle.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gradle.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/libs/CircleImageView-master/gradle.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app_bar_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-198">
-              <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-576">
-              <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-              <folding>
-                <element signature="e#418#458#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="valueResourceFile" />
         <option value="resourceFile" />
         <option value="layoutResourceFile" />
+        <option value="valueResourceFile" />
       </list>
     </option>
   </component>
@@ -2068,14 +1859,16 @@
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dtaq/myrmme/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="745" />
+    <option name="x" value="-1" />
+    <option name="y" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="747" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -2102,12 +1895,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2161,9 +1948,47 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyRmme" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myrmme" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyRmme" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2172,14 +1997,14 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="device.picker.selection" value="192.168.56.101:5555" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/icon/android-floating-action-button-master" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/icon/avatar_2.jpg" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPropertiesWindowManager-NlEditorPanel.SHOW" value="false" />
     <property name="SearchEverywhereHistoryKey" value="main&#9;FILE&#9;file:///home/dtaq/MyRmme/app/src/main/res/layout/activity_main.xml&#10;colo&#9;FILE&#9;file:///home/dtaq/MyRmme/app/src/main/res/values/colors.xml&#10;con&#9;FILE&#9;file:///home/dtaq/MyRmme/app/src/main/res/layout/content_main.xml&#10;@draw&#9;PSI&#9;JAVA://android.support.annotation.DrawableRes" />
-    <property name="lastFolderRoot" value="$USER_HOME$/Downloads/icon/avatar_1.jpg" />
+    <property name="lastFolderRoot" value="$USER_HOME$/Downloads/icon/avatar_2.jpg" />
     <property name="algorithm" value="Scalr" />
     <property name="method" value="Automatic" />
-    <property name="sourceResolution" value="XHDPI" />
-    <property name="resolutions" value="MDPI&#10;XXHDPI&#10;HDPI&#10;XHDPI&#10;XXXHDPI" />
+    <property name="sourceResolution" value="XXHDPI" />
+    <property name="resolutions" value="XHDPI&#10;HDPI&#10;MDPI" />
     <property name="format" value="PNG" />
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
@@ -2495,36 +2320,43 @@
       <option name="presentableId" value="Default" />
       <updated>1479662084459</updated>
     </task>
+    <task id="LOCAL-00001" summary="TransitionManager (applied for all API)">
+      <created>1480826507103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1480826507103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="745" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1" y="-1" width="1368" height="747" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68948245" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39730638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68948245" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24924472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24924472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39730638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2532,6 +2364,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2556,43 +2389,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_share.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_share.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_about.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_about.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/drawable.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_home.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar.png" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar.png" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar.png" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar.png" />
     <entry file="file://$PROJECT_DIR$/settings.gradle">
@@ -2604,21 +2400,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_6.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_2.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -2643,11 +2424,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/content_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1152">
@@ -2656,23 +2432,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v21/ripple_effect.xml" />
@@ -2737,13 +2513,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_search_white_48dp.png">
@@ -2762,14 +2538,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
@@ -2781,51 +2557,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
+        <state relative-caret-position="18">
           <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-576">
-          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-          <folding>
-            <element signature="e#418#458#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.andkulikov/transitionseverywhere/1.7.0/a3fc689428ad561d81a3d5a31f09bddfc702ac1e/transitionseverywhere-1.7.0-sources.jar!/com/transitionseverywhere/TransitionManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6266">
           <caret line="412" column="26" selection-start-line="412" selection-start-column="23" selection-end-line="412" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtaq/myrmme/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="92" column="73" selection-start-line="92" selection-start-column="73" selection-end-line="92" selection-end-column="73" />
-          <folding>
-            <element signature="e#1387#1643#0" expanded="true" />
-            <element signature="e#1642#1643#0" expanded="true" />
-            <element signature="e#1831#1862#0" expanded="true" />
-            <element signature="e#1864#1896#0" expanded="true" />
-            <element signature="e#2672#2923#0" expanded="true" />
-            <element signature="e#2922#2923#0" expanded="true" />
-            <element signature="e#3294#3437#0" expanded="true" />
-            <element signature="e#3436#3437#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2833,7 +2578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2841,7 +2585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2849,30 +2592,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/libs/CircleImageView-master/sample/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="android-manifest">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#257#275#0" expanded="true" />
+            <element signature="e#437#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/avatar_7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/avatar_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/avatar_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/avatar_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/avatar_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/ids.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtaq/myrmme/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="129" column="70" selection-start-line="129" selection-start-column="70" selection-end-line="129" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
